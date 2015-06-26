@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ActionRequestHandler.h"
 
 @interface ViewController : UIViewController
 
+- (IBAction)reset:(UIButton *)sender;
 
 @end
 

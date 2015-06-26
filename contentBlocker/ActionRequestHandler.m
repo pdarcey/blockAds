@@ -21,6 +21,7 @@
     item.attachments = @[attachment];
     
     [context completeRequestReturningItems:@[item] completionHandler:nil];
+    NSLog(@"Action Request Handler");
 }
 
 @end

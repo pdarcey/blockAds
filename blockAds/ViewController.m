@@ -24,4 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)reset:(UIButton *)sender {
+    NSExtensionContext *context = [NSExtensionContext new];
+    NSLog(@"Button pushed");
+    [self beginRequestWithExtensionContext:context];
+}
 @end

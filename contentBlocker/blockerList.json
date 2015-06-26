@@ -1,72 +1,17 @@
 [
-/*
- 
- Notes from https://www.webkit.org/blog/3476/content-blockers-first-look/
- 
- Triggers
- ********
- The valid fields in the trigger are:
- 
- “url-filter” (string, mandatory): regex that matches the resource’s URL. (The syntax of the regular expression is a strict subset of JavaScript regular expressions)
- “url-filter-is-case-sensitive”: (boolean, optional): changes the “url-filter” case-sensitivity.
- “resource-type”: (array of strings, optional): matches how the resource will be used.
- “load-type”: (array of strings, optional): matches the relation to the main resource.
- “if-domain”/”unless-domain” (array of strings, optional): matches the domain of the document.
-
- Resource Type(s)
- ****************
- The optional field “resource-type” specifies the type of load to match. If “resource-type” is not specified, the default is to match all types of resources. The content of this field is an array with all the types of load that can activate the trigger. The possible values are:
- 
- “document”
- “image”
- “style-sheet”
- “script”
- “font”
- “raw” (any untyped load, like XMLHttpRequest)
- “svg-document”
- “media”
- “popup”
-
- Load Type
- *********
- The field “load-type” defines the relation between the domain of the resource being loaded and the domain of the document. The two possible values are:
- 
-  • “first-party”
-  • “third-party”
- 
- A “first-party” load is any load where the URL has the same security origin (i.e. scheme, domain and port) as the document. Every other case is “third-party”.
- 
- Domain Filters
- **************
- The domain filters are “if-domain” and “unless-domain”, those fields are exclusive. In those fields, you can provide a domain filter for the main document.
- 
- Actions
- *******
- The action object has only 2 valid fields:
- 
-  • “type” (string, mandatory): defines what to do when the rule is activated. There are 3 types of actions that limit resources: 
-        • “block”,
-        • “block-cookies”,
-        • “css-display-none”.
-        • “ignore-previous-rules” is an additional type that does not have any impact on the resource but changes how the content extension behaves.
-  • “selector” (string, mandatory for the “css-display-none” type): defines a selector list to apply on the page.
- 
-*/
- 
- // Doubleclick
 {
     "trigger": {
-        "url-filter": "doubleclick"
+        "url-filter": "google",
+        "load-type": "third-party"
      },
      "action": {
          "type": "block"
      }
 }
 
- //
 {
      "trigger": {
-         "url-filter": "decknetwork",	// regex
+         "url-filter": "doubleclick"
      },
      "action": {
          "type": "block"
