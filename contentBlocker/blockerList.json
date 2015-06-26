@@ -1,21 +1,20 @@
 [
-{
-    "trigger": {
-        "url-filter": "google",
-        "load-type": "third-party"
-     },
-     "action": {
-         "type": "block"
-     }
-}
-
-{
-     "trigger": {
-         "url-filter": "doubleclick"
-     },
-     "action": {
-         "type": "block"
-     }
-}
+    {
+        "trigger": {
+            "url-filter": "google",
+            "load-type": "third-party"
+         },
+         "action": {
+             "type": "block"
+         }
+    },
+    {
+         "trigger": {
+             "url-filter": "doubleclick"
+         },
+         "action": {
+             "type": "block"
+         }
+    }
 
 ]
