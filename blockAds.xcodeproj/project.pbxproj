@@ -15,6 +15,9 @@
 		C9F69E681B3D1E350064E2D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F69E661B3D1E350064E2D4 /* LaunchScreen.storyboard */; };
 		C9F69E731B3D1E350064E2D4 /* blockAdsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F69E721B3D1E350064E2D4 /* blockAdsTests.m */; };
 		C9F69E7E1B3D1E350064E2D4 /* blockAdsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F69E7D1B3D1E350064E2D4 /* blockAdsUITests.m */; };
+		C9F69E921B3D1E910064E2D4 /* blockerList.json in Resources */ = {isa = PBXBuildFile; fileRef = C9F69E911B3D1E910064E2D4 /* blockerList.json */; };
+		C9F69E951B3D1E910064E2D4 /* ActionRequestHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F69E941B3D1E910064E2D4 /* ActionRequestHandler.m */; };
+		C9F69E991B3D1E910064E2D4 /* contentBlocker.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = C9F69E8F1B3D1E900064E2D4 /* contentBlocker.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,7 +35,28 @@
 			remoteGlobalIDString = C9F69E541B3D1E350064E2D4;
 			remoteInfo = blockAds;
 		};
+		C9F69E971B3D1E910064E2D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C9F69E4D1B3D1E350064E2D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C9F69E8E1B3D1E900064E2D4;
+			remoteInfo = contentBlocker;
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C9F69E9D1B3D1E910064E2D4 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				C9F69E991B3D1E910064E2D4 /* contentBlocker.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		C9F69E551B3D1E350064E2D4 /* blockAds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = blockAds.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +75,11 @@
 		C9F69E791B3D1E350064E2D4 /* blockAdsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = blockAdsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9F69E7D1B3D1E350064E2D4 /* blockAdsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = blockAdsUITests.m; sourceTree = "<group>"; };
 		C9F69E7F1B3D1E350064E2D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9F69E8F1B3D1E900064E2D4 /* contentBlocker.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = contentBlocker.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9F69E911B3D1E910064E2D4 /* blockerList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = blockerList.json; sourceTree = "<group>"; };
+		C9F69E931B3D1E910064E2D4 /* ActionRequestHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActionRequestHandler.h; sourceTree = "<group>"; };
+		C9F69E941B3D1E910064E2D4 /* ActionRequestHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ActionRequestHandler.m; sourceTree = "<group>"; };
+		C9F69E961B3D1E910064E2D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +104,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C9F69E8C1B3D1E900064E2D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -84,6 +120,7 @@
 				C9F69E571B3D1E350064E2D4 /* blockAds */,
 				C9F69E711B3D1E350064E2D4 /* blockAdsTests */,
 				C9F69E7C1B3D1E350064E2D4 /* blockAdsUITests */,
+				C9F69E901B3D1E910064E2D4 /* contentBlocker */,
 				C9F69E561B3D1E350064E2D4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -94,6 +131,7 @@
 				C9F69E551B3D1E350064E2D4 /* blockAds.app */,
 				C9F69E6E1B3D1E350064E2D4 /* blockAdsTests.xctest */,
 				C9F69E791B3D1E350064E2D4 /* blockAdsUITests.xctest */,
+				C9F69E8F1B3D1E900064E2D4 /* contentBlocker.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -140,6 +178,17 @@
 			path = blockAdsUITests;
 			sourceTree = "<group>";
 		};
+		C9F69E901B3D1E910064E2D4 /* contentBlocker */ = {
+			isa = PBXGroup;
+			children = (
+				C9F69E911B3D1E910064E2D4 /* blockerList.json */,
+				C9F69E931B3D1E910064E2D4 /* ActionRequestHandler.h */,
+				C9F69E941B3D1E910064E2D4 /* ActionRequestHandler.m */,
+				C9F69E961B3D1E910064E2D4 /* Info.plist */,
+			);
+			path = contentBlocker;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -150,10 +199,12 @@
 				C9F69E511B3D1E350064E2D4 /* Sources */,
 				C9F69E521B3D1E350064E2D4 /* Frameworks */,
 				C9F69E531B3D1E350064E2D4 /* Resources */,
+				C9F69E9D1B3D1E910064E2D4 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				C9F69E981B3D1E910064E2D4 /* PBXTargetDependency */,
 			);
 			name = blockAds;
 			productName = blockAds;
@@ -196,6 +247,23 @@
 			productReference = C9F69E791B3D1E350064E2D4 /* blockAdsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		C9F69E8E1B3D1E900064E2D4 /* contentBlocker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9F69E9A1B3D1E910064E2D4 /* Build configuration list for PBXNativeTarget "contentBlocker" */;
+			buildPhases = (
+				C9F69E8B1B3D1E900064E2D4 /* Sources */,
+				C9F69E8C1B3D1E900064E2D4 /* Frameworks */,
+				C9F69E8D1B3D1E900064E2D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = contentBlocker;
+			productName = contentBlocker;
+			productReference = C9F69E8F1B3D1E900064E2D4 /* contentBlocker.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -207,6 +275,7 @@
 				TargetAttributes = {
 					C9F69E541B3D1E350064E2D4 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = J6B6PF7Z9K;
 					};
 					C9F69E6D1B3D1E350064E2D4 = {
 						CreatedOnToolsVersion = 7.0;
@@ -215,6 +284,10 @@
 					C9F69E781B3D1E350064E2D4 = {
 						CreatedOnToolsVersion = 7.0;
 						TestTargetID = C9F69E541B3D1E350064E2D4;
+					};
+					C9F69E8E1B3D1E900064E2D4 = {
+						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = J6B6PF7Z9K;
 					};
 				};
 			};
@@ -234,6 +307,7 @@
 				C9F69E541B3D1E350064E2D4 /* blockAds */,
 				C9F69E6D1B3D1E350064E2D4 /* blockAdsTests */,
 				C9F69E781B3D1E350064E2D4 /* blockAdsUITests */,
+				C9F69E8E1B3D1E900064E2D4 /* contentBlocker */,
 			);
 		};
 /* End PBXProject section */
@@ -260,6 +334,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9F69E8D1B3D1E900064E2D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9F69E921B3D1E910064E2D4 /* blockerList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +374,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C9F69E8B1B3D1E900064E2D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9F69E951B3D1E910064E2D4 /* ActionRequestHandler.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -304,6 +394,11 @@
 			isa = PBXTargetDependency;
 			target = C9F69E541B3D1E350064E2D4 /* blockAds */;
 			targetProxy = C9F69E7A1B3D1E350064E2D4 /* PBXContainerItemProxy */;
+		};
+		C9F69E981B3D1E910064E2D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C9F69E8E1B3D1E900064E2D4 /* contentBlocker */;
+			targetProxy = C9F69E971B3D1E910064E2D4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -413,6 +508,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = blockAds/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pdarcey.blockAds;
@@ -424,6 +520,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = blockAds/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pdarcey.blockAds;
@@ -479,6 +576,30 @@
 			};
 			name = Release;
 		};
+		C9F69E9B1B3D1E910064E2D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = contentBlocker/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pdarcey.blockAds.contentBlocker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		C9F69E9C1B3D1E910064E2D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = contentBlocker/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.pdarcey.blockAds.contentBlocker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -512,6 +633,14 @@
 			buildConfigurations = (
 				C9F69E891B3D1E350064E2D4 /* Debug */,
 				C9F69E8A1B3D1E350064E2D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C9F69E9A1B3D1E910064E2D4 /* Build configuration list for PBXNativeTarget "contentBlocker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9F69E9B1B3D1E910064E2D4 /* Debug */,
+				C9F69E9C1B3D1E910064E2D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
