@@ -1,0 +1,2550 @@
+[
+ {
+	"action": {
+ "selector": "a[href^=\"?banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"?click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\".atwola.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\".banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\".falkag.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/0AD\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/A=\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/ads/\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"/rd.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"=click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"=deck\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"ad.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"addata\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"addthis\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ {
+	"action": {
+ "selector": "a[href^=\"adfarm\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"ads.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"adserve\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"adSpace\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"amqdqt\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"anim.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"backbeatmedia\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"betterbasketball.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"bluestreak\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"BurstingPipe\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"buysellads\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"casalemedia.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"clickurl=\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"cpaclicks\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"derrenbrownart.com\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"doubleclick\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"ebayobjects\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"fastclick\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"feedsportal\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ {
+	"action": {
+ "selector": "a[href^=\"googlesyndication\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"microsoftaffiliates\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"nielsenwire/watch\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"opinion-formers\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"projectwonderful\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"RANDOM\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"realgmtix.phtml\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"services.google.com\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"serving-sys\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"small.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"spinbox.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"sponsors.phtml\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"targetpoint\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"the_internet_is_a_playground\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"thirdparty.fmpub\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"tracking_id\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"trackoffer.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"tracksponsor.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"transfer.go\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"tribalfusion\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "a[href^=\"valueclick.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+ {
+	"action": {
+ "selector": "a[link^=\"AdSolution\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "LI[ID^=\"text-\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* disable ad divs */
+ {
+	"action": {
+ "selector": "DIV[ID^=\"ad_premium_div\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"AdBigBanner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"adspot\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"adSpot\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"advert\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"ad_\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"advertiserLinks\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"announcementregion\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"banner_container\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"banner_ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"block-block\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"IL_BUBBLE\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"buzzbox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"BUZZBOX\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"Carousel\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"cnetToolbarWrap\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"Crawl\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"currentlyRail\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"dclkAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"dcssb-float\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"deckad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"dialog1\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"editorsSlider\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"eyeDiv\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"fancybox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"feed-control\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"featured_slideshow\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"floatingAd\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"FloatDiv\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"flyoutWidget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"google_ads_\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"news-latest\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"hldhAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"hd_ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"JA1banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"mask\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"miniscore\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"meebo\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"MetrixLab\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"nw_ft_wrap\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"oo_feedback_float\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"publitweet\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"puff-box\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"rightad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"rotating\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"Rotator\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"right-rail\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"shortTail\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"SidebarTheDeck\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"skybox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"slidebox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"slideshow_hl\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"slider1\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"simplereach\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"Stats1_content\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"StockTwits_wrapper\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"subscription_slider\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"tbc\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"tc_flyer\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"ticker\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"trackbar\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"trending\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"twidget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"widget-300X250\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"upNext\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"wibiya\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[ID^=\"zolis\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* DIV[STYLE*="gif"] { display: none ! important; } */
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ad-now\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ad-728\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ad-leaderboard\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"adisland\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ad island\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ad-wide\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"adsBox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"adsByGoogle\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"advert\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"apture\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"aside span-8\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"banners\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"bottomAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"carousel\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"commercialpadding\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"column1-ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"cT-quoteRotator\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ego_spo\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ego_section\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"emu_ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"execphpwidget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"fbEmu\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"flotsamcontainer\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"flyInContent\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"FIXBOTTOM\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"googleTextAd\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"go-toaster\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"gk_news_highlighter\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"header-image-container\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"jcarousel\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"module-item\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"link_list\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"mod-accordion\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"nw-random\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"overlay_video_ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"olOver\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"pop_up\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"promo-image\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"promoContainer\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"right-ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sailthru\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sbmod-container\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"scroller\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"SidebarAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sideShare\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sideScroller\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"slidorama\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"slide-notification\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sstrap\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"stepcarousel\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"story-fader\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"towerAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"textAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"ticker\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"tc_row\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"topAds\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"twitterSearchContainter\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"twtr-widget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"widget_widget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"widget_widget_text\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "DIV[CLASS^=\"sponsor\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+ {
+	"action": {
+ "selector": "SPAN[ID^=\"Crawl\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* disable ad iframes */
+ {
+	"action": {
+ "selector": "IFRAME[ID^=\"crowdynews-widget\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[ID^=\"google_ads\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[ID^=\"merchandisingMERC\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[ID^=\"questionmarket\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"?banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"?click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\".atwola.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\".banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\".falkag.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"/0AD\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"/A=\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"/ad\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"/click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"/rd.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"=click\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"ad.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"addata\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"adfarm\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"adjuggler\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"ads.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"adserve\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"adSpace\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"appbodega\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"bluestreak\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"clickurl=\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"connextra.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"doubleclick\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"feedlytics\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"spinbox.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"trackoffer.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"transfer.go\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IFRAME[SRC^=\"tracksponsor.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+ {
+	"action": {
+ "selector": "TABLE[ID^=\"aadbox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "TABLE[ID^=\"SUwebTb\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* Annoying promo boxes at SMH */
+ {
+	"action": {
+ "selector": "UL[ID^=\"cN-tabBox\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "UL[CLASS^=\"carouselNav\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "/* UL[CLASS^=\"thumbs\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "UL[CLASS^=\"comments-links\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "UL[ID^=\"shareMenu\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* Annoying crap */
+ {
+	"action": {
+ "selector": "TD[CLASS^=\"flotsamcontainer\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+ {
+	"action": {
+ "selector": "LI[ID^=\"shareMenu\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "LI[CLASS^=\"promoItem\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* block animated (or not) GIFs*/
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"150x40.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"anim.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[CLASS^=\"lom-dynamic\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"promo\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[ID^=\"AdBigBanner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"serving-sys\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"/wifibox.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"/marketing\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"playfirst.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"the_internet_is_a_playground_tiny.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"/sponsors/\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"small.gif\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+/* block flash player overlays*/
+ {
+	"action": {
+ "selector": "OBJECT[DATA^=\"atdmt\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "EMBED[SRC^=\"vodpod\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\".msads.\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"banner\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"buysellads\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"fastclick\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"feedsportal\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"serving-sys\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"webstore\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ {
+	"action": {
+ "selector": "IMG[SRC^=\"tribalfusion\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+ 
+ {
+	"action": {
+ "selector": "LI:[ID^=\"shareMenu\"]",
+ "type": "css-display-none"
+	},
+	"trigger": {
+ "url-filter": ".*"
+	}
+ }
+ 
+]
