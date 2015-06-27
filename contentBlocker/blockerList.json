@@ -1,622 +1,757 @@
-[
- {
-    "trigger": {
-        "url-filter": "2mdn"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "admantx"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "adsrvr"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "amazon-adsystem"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "backplane"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "blank.gif"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "blz.io"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "chartbeat"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "clear.gif"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "cloudfront"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "criteo"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "decknetwork"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "demdex"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "doubleclick"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "dynamicyield"
-    },
-    "action": {
-        "type": "block"
-    }
-},
- {
- "trigger": {
- "url-filter": "edigitalsurvey"
- },
- "action": {
- "type": "block"
- }
- },
-{
-    "trigger": {
-        "url-filter": "edgesuite"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "ensighten"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "fyre.co"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "googleadservices"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "googlesyndication"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "googletagmanager"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "googletagservices"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "imrworld"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "iperceptions"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "janrain"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "kampyle"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "krxd"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "livefyre"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "metrics.foxnews"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "ml314"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "moatads"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "mpstat"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "mpulse"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "msecnd"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "newsdata"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "newsdiscover"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "newrelic"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "nexac"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "nile.works"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "nr-data"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "optimahub"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "omniture"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "ompimizely"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "omtrdc"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "outbrain"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "pixel.parsley"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "parsley.com"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "r.turn.com"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "researchnow"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "rpxnow"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "rubiconproject"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "scorecardresearch"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "servedbyopenx"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "tagsrvcs"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "tapad"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "truste.com"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "visualrevenue"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "webtrends"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "webtrendslive"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "yieldmo"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-
-
-{
-    "trigger": {
-        "url-filter": "google",
-        "load-type": "third-party"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "analytics",
-        "load-type": "third-party"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "facebook",
-        "load-type": "third-party"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "fncstatic",
-        "load-type": "third-party"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-
-
-{
-    "trigger": {
-        "url-filter": "adobetm",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "cookie",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "foxnews",
-        "resource-type": "script",
-        "unless-domain": "foxnews"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "google",
-        "resource-type": "script",
-        "unless-domain": "google"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "ntag.js",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "tad.js",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
- {
- "trigger": {
- "url-filter": "tags",
- "resource-type": "script"
- },
- "action": {
- "type": "block"
- }
- },
-{
-    "trigger": {
-        "url-filter": "tagx",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "tracking",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-},
-{
-    "trigger": {
-        "url-filter": "utrack",
-        "resource-type": "script"
-    },
-    "action": {
-        "type": "block"
-    }
-}
-]
+ [
+  {
+  "trigger": {
+  "url-filter": "2mdn"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "admantx"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "adsrvr"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "advert"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "amazon-adsystem"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "ampxchange"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "backplane"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "blank.gif"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "blz.io"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "brightcove"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "chartbeat"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "clear.gif"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "cloudfront"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "criteo"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "decknetwork"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "demdex"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "doubleclick"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "dynamicyield"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "edigitalsurvey"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "edgesuite"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "ensighten"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "fyre.co"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "gigya"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "gotraffic"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "googleadservices"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "googlesyndication"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "googletagmanager"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "googletagservices"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "inmobi.com"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "imrworld"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "iperceptions"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "janrain"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "jwpltx"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "jwpcdn"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "kampyle"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "krxd"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "livefyre"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "metrics.foxnews"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "mxpnl"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "ml314"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "moatads"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "mpstat"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "mpulse"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "msecnd"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "newsdata"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "newsdiscover"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "newrelic"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "nexac"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "nile.works"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "nr-data"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "opta.net"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "optimahub"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "omniture"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "optimizely"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "omtrdc"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "outbrain"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "pixel.parsely"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "parsely.com"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "pointroll"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "r.turn.com"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "rad.msn"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "researchnow"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "rpxnow"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "rubiconproject"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "sail-horizon"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "scorecardresearch"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "servedbyopenx"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "taboola"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "tagsrvcs"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "tapad"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "truste.com"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "visualrevenue"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "visualwebsiteoptimizer"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "webtrends"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "webtrendslive"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "yieldmo"
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "google",
+  "load-type": ["third-party"],
+  "unless-domain": ["google"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "analytics",
+  "load-type": ["third-party"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "facebook",
+  "load-type": ["third-party"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "fncstatic",
+  "load-type": ["third-party"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "twitter",
+  "load-type": ["third-party"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "adobetm",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "cookie",
+  "load-type": ["third-party"],
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "foxnews",
+  "resource-type": ["script"],
+  "unless-domain": ["foxnews"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "ntag.js",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "tad.js",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "tags",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "tagx",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "track",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "utrack",
+  "resource-type": ["script"]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "imore"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#tmn_footer_ad_mobile"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "yahoo"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#ad_wp_base"
+  }
+  }
+  ]
